@@ -96,4 +96,15 @@ export const projects: Project[] = [
     sourceUrl: 'https://github.com/AryanV-Coder/AI-Powered-Commenter',
     liveUrl: 'https://ai-powered-commenter.streamlit.app'
   }
+,
+  {
+    id: '1748935851',
+    title: 'AI Assistant',
+    description: 'Helps students study',
+    students: ['Aarya', 'Rohan'],
+    technologies: ['Python', 'AI'],
+    image: 'default.png',
+    date: '2025-06-03',
+    year: '2025'
+  }
 ];
