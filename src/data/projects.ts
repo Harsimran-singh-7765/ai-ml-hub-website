@@ -107,4 +107,15 @@ export const projects: Project[] = [
     date: '2025-06-03',
     year: '2025'
   }
+,
+  {
+    id: '1748935936',
+    title: 'Open Souce Buddy',
+    description: 'Helps find opensouce project',
+    students: ['Harsimran Singh'],
+    technologies: ['Python', 'Crew AI'],
+    image: 'default.png',
+    date: '2025-06-03',
+    year: '2025'
+  }
 ];
